@@ -1,8 +1,8 @@
-# PRED: Performance-oriented Random Early Detection for Consistently Stable Performance in Datacenters
+# PRED: Performance-oriented Random Early Detection
 
-## Authors - Atharv Agarwal, Daksh Agarwal
+## Implemented by - Atharv Agarwal, Daksh Agarwal
 
-NS-3 implementation of **PRED**, a dynamic AQM algorithm for datacenter network.
+NS-3 implementation of PRED, a dynamic AQM algorithm for data center networks, presented at USENIX NSDI 2025.
 
 The implementation is evaluated on two topologies: a simple N-to-1 incast scenario and a full 128-server leaf-spine datacenter fabric.
 
