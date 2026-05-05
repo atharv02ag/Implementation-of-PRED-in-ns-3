@@ -5,4 +5,6 @@
 !nested-subdir/
 !subdir/
 !scratch-simulator.cc
+!incast_*.cc
+!leaf_spine_*.cc
 !CMakeLists.txt

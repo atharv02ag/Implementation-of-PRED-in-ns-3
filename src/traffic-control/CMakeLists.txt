@@ -16,6 +16,7 @@ build_lib(
     model/prio-queue-disc.cc
     model/queue-disc.cc
     model/red-queue-disc.cc
+    model/pred-queue-disc.cc
     model/tbf-queue-disc.cc
     model/traffic-control-layer.cc
   HEADER_FILES
@@ -34,6 +35,7 @@ build_lib(
     model/prio-queue-disc.h
     model/queue-disc.h
     model/red-queue-disc.h
+    model/pred-queue-disc.h
     model/tbf-queue-disc.h
     model/traffic-control-layer.h
   LIBRARIES_TO_LINK ${libnetwork}
