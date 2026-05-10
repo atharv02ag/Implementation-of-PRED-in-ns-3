@@ -42,7 +42,7 @@ The implementation is evaluated on two topologies: a simple N-to-1 incast scenar
 This repository **is** the ns-3 source tree with PRED added. Clone it directly:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git ns-3-pred
+git clone https://github.com/atharv02ag/Implementation-of-PRED-in-ns-3.git ns-3-pred
 cd ns-3-pred
 ```
 
